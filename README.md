@@ -5,10 +5,11 @@
 
 # 1. 프로젝트 설명
 * JDK 1.8 기준
-* SpringBoot 1.2.5
+* [SpringBoot 1.2.5](http://docs.spring.io/spring-boot/docs/current/reference/html/index.html)
 	- Embedded Tomcat 8.0
 	- [h2Database](http://h2database.com/)
-	- Spring Data JPA 추가
+	- Spring Data JPA
+		+ [스프링 데이터 JPA 레퍼런스 번역](http://arahansa.github.io/docs_spring/jpa.html)
 
 # 2. 학습방법
 * 참고: 삼색펜 학습법(http://egloos.zum.com/agile/v/3684946) 사용 
