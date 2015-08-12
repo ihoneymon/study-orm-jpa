@@ -1,0 +1,27 @@
+# see detail: http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
+# 공통
+spring:
+  datasource:
+    url: jdbc:h2:file:~/.database/study-orm-jpa
+    username: sa
+    password: null
+    driver-class-name: org.h2.Driver
+    sql-script-encoding: UTF-8
+  jpa:
+    database: H2
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  profiles:
+    active: local
+---
+# 로컬 실행설정
+spring:
+  profiles: local
+---
+# 테스트진행시 메모리DB 구동
+spring:
+  profiles: test
+  datasource:
+    url: jdbc:h2:mem:study-orm-jpa
