@@ -2,6 +2,7 @@
 ===================================
 
 * 교재: <http://www.yes24.com/24/Goods/19040233?Acode=101>
+* 교재 관련 예제: <https://github.com/holyeye/jpabook>
 
 # 1. 프로젝트 설명
 * JDK 1.8 기준
@@ -19,7 +20,12 @@
 		+ 책을 읽으면서 궁금했거나 자신의 경험담 등을 간단히 전달
 
 # 3. 읽을거리
-* [스프링과 JPA, 김영한](http://www.slideshare.net/zipkyh/ksug2015-jpa5-jpa)
+* KSUG 세미나, JPA
+  - [1th, JPA 소개 - KSUG세미나, 김영한](http://www.slideshare.net/zipkyh/ksug2015-jpa1-jpa-51213397)
+	- [2th, JPA 기초와 매핑 - KSUG세미나, 김영한](http://www.slideshare.net/zipkyh/ksug2015-jpa2-jpa)
+	- [3th, JPA 내부구조 - KSUG세미나, 김영한](http://www.slideshare.net/zipkyh/ksug2015-jpa3-jpa)
+	- [4th, 객체지향 쿼리 - KSUG세미나, 김영한](http://www.slideshare.net/zipkyh/ksug2015-jpa4)
+	- [5th, 스프링과 JPA - KSUG세미나, 김영한](http://www.slideshare.net/zipkyh/ksug2015-jpa5-jpa)
 * [SpringDataJPA - 스프링캠프, 김영한](http://www.slideshare.net/zipkyh/spring-datajpa)
   - 영상: [\[SpringCamp2013\] Spring Data JPA ](https://www.youtube.com/watch?v=OOO4H3BAetU)
 * [ORM을 활용할 경우의 설계, 개발 과정 - 스프링캠프, 박재성](http://www.slideshare.net/javajigi/orm-27141159)
